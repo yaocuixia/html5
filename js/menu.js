@@ -10,7 +10,7 @@ for (var i = 0 ; i<n ; i++)
 			uLi[j].className = "";
 		}
 	this.className = "red";
-	},false)
+	},false);
 
 /*index end*/
 }

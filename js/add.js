@@ -4,7 +4,7 @@
 		var label_con =odiv.getElementsByTagName('label');
 		var oleng = label_con.length;
 		obox.addEventListener("touchend",function(){
-			console.log("yang");
+			//console.log("yang");
 			for(var i=0; i<oleng; i++){
 				if(obox.checked==true){
 					label_con[i].style.display = "none";

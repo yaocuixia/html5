@@ -28,7 +28,7 @@ $(function(){
 		$quick_span.css("-webkit-transform","rotate(0deg)");
 		$(this).find("span.quick_span").css("-webkit-transform","rotate(90deg)");
 	});
-})
+});
 //$(function(){
 //	var $li_btn = $(".inner_pages .seasonal li");
 //	var $ul_box = $(".inner_top ul");
